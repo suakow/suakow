@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Suakow. Interested in Software development and Machine Learning ! I experienced Python programming for 4 years and data science for 1 year.
+My name is Suakow. Interested in Software development and Machine Learning ! I experienced Python programming for 4 years.
 
 <!--
 **suakow/suakow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
