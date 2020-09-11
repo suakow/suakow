@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Suakow. I experienced network programmability (on ISP backbone network, familiar with Juniper and Cisco programmability APIs) and automation for 3 years and experienced in software developement for 5 years. Currently, I am interested in machine learning and AI !
+My name is Suakow. I experienced network programmability (especially on ISP's Internet backbone network, familiar with Juniper and Cisco programmability APIs) and automation for 3 years and experienced in software developement for 5 years. Currently, I am interested in machine learning and AI !
 
 <!--
 **suakow/suakow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
